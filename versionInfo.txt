@@ -1,0 +1,8 @@
+%% Updates to v1.1
+
+% Made some changes to nd_sorting function to make it easy to read and
+% understand
+% in crowding_distance calculation in nd_sorting, insteadd of nearest neighbour,
+% kth nearest neighbour is used, value of which is given there directly
+%
+% made changes to tournament selection using an inbuilt function randsample
